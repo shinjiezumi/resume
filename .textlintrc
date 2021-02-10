@@ -1,0 +1,9 @@
+{
+  "filters": {},
+  "rules": {
+    "date-weekday-mismatch": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "spellcheck-tech-word": true
+  }
+}
