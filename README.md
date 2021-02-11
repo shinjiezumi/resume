@@ -20,7 +20,7 @@ Web系の流れの早さやモダンな技術の多さに面白さを感じて�
   - Gin：〜1年（実務未経験）
 - Python：〜1年
 
-DB 
+#### DB 
 - Oracle：1年〜
 - PostgreSQL：1年〜
 - MySQL：3年〜
@@ -36,15 +36,13 @@ DB
 - GCP 〜1年
 
 ### その他
-- Git 3年〜
-- Docker 3年〜
-- VMware 3年〜
-- Vagrant 1年〜
-
+- Git：3年〜
+- Docker：3年〜
+- VMware：3年〜
+- Vagrant：1年〜
 
 ## 組込系
-- C、C++  3年
-
+- C、C++：3年
 
 ## 職務経歴(Web系)
 ### 転職サービスの開発(2020/04〜)
@@ -65,7 +63,7 @@ DB
 - Python
 - DDD、クリーンアーキテクチャ
 - MySQL 5.7、MongoDB 4.0
-- AWS(ECS、RDS、CloudWatch、DocumentDB、Lambda...)
+- AWS
 - Docker
 - Git
 - Slack、esa、Trello、Redmine、Discord
@@ -82,7 +80,7 @@ WMS（Warehouse Management System）の中の外部ECサイト(YahooやBaseな�
 - PHP 7.2、Laravel 5.6
 - MySQL 5.7
 - React、Redux
-- AWS(ECS、RDS、Athena...)
+- AWS
 - Docker
 - Git
 - Slack、Redmine
